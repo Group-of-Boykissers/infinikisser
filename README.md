@@ -1,1 +1,1 @@
-moved to [here](https://git.gay/Group-of-Boykissers/pages/src/branch/Website/infinikisser)
+moved to [here](https://git.gay/GoB/pages/src/branch/Website/infinikisser)
